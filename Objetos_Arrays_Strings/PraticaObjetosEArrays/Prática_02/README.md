@@ -1,0 +1,1 @@
+Nesta prática aprendemos a acessar os index de arrays.

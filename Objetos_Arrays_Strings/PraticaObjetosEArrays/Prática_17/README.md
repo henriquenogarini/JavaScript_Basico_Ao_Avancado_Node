@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre os arrays e como utilizar o método includes (verifica se o array tem um determinado elemento)

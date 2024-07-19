@@ -1,0 +1,1 @@
+Exercícios voltados para o desenvolvimento do aprendizado de arrays, objetos, manipulação de strings e JSON.

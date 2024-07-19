@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre os arrays e como utilizar os métodos indexOf(encontra o índice de um determinado elemento) e o lastIndexOf(encontrar o ultimo índice de um elemento)

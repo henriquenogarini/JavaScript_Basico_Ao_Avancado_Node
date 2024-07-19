@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre os arrays e como utilizar o método slie ( retorna um array a partir de outro array).

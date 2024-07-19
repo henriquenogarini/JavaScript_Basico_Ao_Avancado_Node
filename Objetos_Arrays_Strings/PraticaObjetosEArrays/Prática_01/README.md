@@ -1,0 +1,1 @@
+Nesta aula prática, realizamos a criação de alguns arrays e seus tipos.

@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre os arrays e como realizar os loops nestes.

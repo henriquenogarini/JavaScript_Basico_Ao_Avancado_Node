@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre os arrays e como utilizar os métodos unshift (que insere elemento no início de um array) e o shift (que deleta um elemento no início de uma array).

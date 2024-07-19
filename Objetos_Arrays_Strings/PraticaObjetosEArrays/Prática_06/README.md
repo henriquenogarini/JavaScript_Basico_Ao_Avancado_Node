@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre o objetos e como criar e deletar propriedades dentro destes.

@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre o objetos e como verificar quais chaves eles possuem.

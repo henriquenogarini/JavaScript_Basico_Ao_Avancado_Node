@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre o objetos e mutabilidade, onde um objeto pode herdar todas as características do outro, virando uma referência ao mesmo.

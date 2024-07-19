@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre os arrays e como utilizar o método reverse(inverte um array)

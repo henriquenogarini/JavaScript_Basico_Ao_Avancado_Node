@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre os String e o método split ( divide uma string por um separador, e retorna um array).

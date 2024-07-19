@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre o objetos e copiar propriedades de um para outro.

@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre o objetos, que são uma estrutura de dados com várias propriedades.

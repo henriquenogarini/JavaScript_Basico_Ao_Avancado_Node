@@ -1,0 +1,1 @@
+Módulo voltado para estudo de objetos e arrays , strings e JSON.

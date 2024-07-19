@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre os arrays e como utilizar o método forEach(Itera cada elemento do array)

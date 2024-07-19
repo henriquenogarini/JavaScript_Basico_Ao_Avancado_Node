@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre os String e o método padStart(Inserir caracteres no início da string).

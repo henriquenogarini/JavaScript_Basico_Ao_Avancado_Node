@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre os String e o método join (junta elementos em um array em uma frase, por meio de um separador).

@@ -1,0 +1,1 @@
+Nesta aula prática criamos diversas funções com complexidades maiores para treinar e se acostumar ao funcionamento delas

@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre os arrays e como utilizar os métodos push (que insere elemento na array) e o pop (que deleta um elemento da array).

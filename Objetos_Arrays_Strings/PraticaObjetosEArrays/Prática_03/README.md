@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre propriedades de array.

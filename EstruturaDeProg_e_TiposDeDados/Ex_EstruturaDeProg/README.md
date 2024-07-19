@@ -1,0 +1,1 @@
+Pasta destinada a exercícios sobre Estrutura de programação, todos os exercícios foram disponibilizados pela curso.

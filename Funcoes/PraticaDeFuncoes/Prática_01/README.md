@@ -1,0 +1,1 @@
+Nesta aula prática, fazemos algumas funções simples e suas devidas chamadas para ver seu funcionamento.

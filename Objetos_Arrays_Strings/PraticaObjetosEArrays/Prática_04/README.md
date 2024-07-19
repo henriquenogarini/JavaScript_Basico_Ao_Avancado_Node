@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre métdos em arrays, que são propriedades que funcionam como funções.

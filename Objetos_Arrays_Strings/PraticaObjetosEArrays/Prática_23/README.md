@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre os String e o método repeat (repete uma string de acordo com um parâmetro number)

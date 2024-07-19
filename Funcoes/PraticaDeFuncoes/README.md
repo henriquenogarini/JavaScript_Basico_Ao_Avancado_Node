@@ -1,0 +1,1 @@
+Pasta dedicada ao conteúdo de funções do curso, onde temos todas as funções mais importantes, como utilizá-las e como funcionam.

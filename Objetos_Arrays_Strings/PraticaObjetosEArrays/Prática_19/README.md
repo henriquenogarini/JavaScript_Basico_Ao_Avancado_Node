@@ -1,0 +1,1 @@
+Nesta prática aprendemos sobre os String e o método trim(remove tudo que não é string).
